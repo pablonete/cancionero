@@ -1,19 +1,21 @@
 # Cumpleaños feliz
 
+escala = [:C4, :D4, :E4, :F4]
+
 live_loop :melody do
   use_bpm 100
   
-  play :C4
+  play escala[0]
   sleep 0.5
-  play :C4
+  play escala[0]
   sleep 0.5
-  play :D4
+  play escala[1]
   sleep 1
-  play :C4
+  play escala[0]
   sleep 1
-  play :F4
+  play escala[3]
   sleep 1
-  play :E4
+  play escala[2]
   sleep 2
   
   play :C4
