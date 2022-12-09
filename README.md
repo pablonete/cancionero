@@ -1,7 +1,10 @@
 # Cancionero
-Colección de música, inicialmente de [Sonic-Pi](https://sonic-pi.net/).
+Colección de música digital
 
-Canciones:
+## Canciones
 - [Cumpleaños feliz](sonic-pi/cumpleaños-feliz.rb)
+- [Dos pistas](earSketch/two-beats.js)
 
-No puedo creer que no haya un reproductor online de Sonic Pi.
+## Plataformas
+- [Sonic-Pi](https://sonic-pi.net/), no puedo creer que no haya un reproductor online.
+- [EarSketch](https://earsketch.gatech.edu/)
