@@ -2,8 +2,17 @@
 
 escala = [:C4, :D4, :E4, :F4, :G4, :A4, :C5]
 
+use_bpm 100
+
+live_loop :kick do
+  sample :bd_haus
+  sleep 1
+  sample :perc_snap
+  sleep 1
+end
+
 live_loop :melody do
-  use_bpm 100
+  use_synth :piano
   
   2.times do |i|
     2.times do
@@ -43,3 +52,4 @@ live_loop :melody do
   play escala[3]
   sleep 2
 end
+
