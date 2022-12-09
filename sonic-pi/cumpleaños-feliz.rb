@@ -1,26 +1,57 @@
 # Cumpleaños feliz
 
-play :C
+
+play :C4
 sleep 0.5
-play :C
+play :C4
 sleep 0.5
-play :D
+play :D4
 sleep 0.5
-play :C
+play :C4
 sleep 0.5
-play :F
+play :F4
 sleep 0.5
-play :E
+play :E4
 sleep 1
 
-play :C
+play :C4
 sleep 0.5
-play :C
+play :C4
 sleep 0.5
-play :D
+play :D4
 sleep 0.5
-play :C
+play :C4
 sleep 0.5
-play :G
+play :G4
 sleep 0.5
-play :F
+play :F4
+sleep 1
+
+play :C4
+sleep 0.5
+play :C4
+sleep 0.5
+play :C5
+sleep 0.5
+play :A4
+sleep 0.5
+play :F4
+sleep 0.5
+play :E4
+sleep 0.5
+play :D4
+sleep 1
+
+play :C5
+sleep 0.5
+play :C5
+sleep 0.5
+play :A4
+sleep 0.5
+play :F4
+sleep 0.5
+play :G4
+sleep 0.5
+play :F4
+sleep 0.5
+
